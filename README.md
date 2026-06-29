@@ -1,4 +1,6 @@
-[English](README_EN.md) | [中文](README_CN.md)\r\n\r\n# EasyDBSync
+[English](README_EN.md) | [中文](README_CN.md)\r\n\r\n# Db2Db
+
+[![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE) [![Python](https://img.shields.io/badge/python-%3E%3D3.8-brightgreen.svg)](https://www.python.org/)
 
 数据库表同步工具，支持将数据从一个数据库的表同步到另一个数据库的表。基于 SQLAlchemy 构建，支持 MySQL、PostgreSQL、SQLite 之间的跨库同步。
 
