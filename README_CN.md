@@ -1,4 +1,4 @@
-[English](README_EN.md) | [中文](README_CN.md)\r\n\r\n# EasyDBSync
+# EasyDBSync
 
 数据库表同步工具，支持将数据从一个数据库的表同步到另一个数据库的表。基于 SQLAlchemy 构建，支持 MySQL、PostgreSQL、SQLite 之间的跨库同步。
 
@@ -340,4 +340,3 @@ sqlite:///path/to/db.sqlite
 - 使用 `--truncate-target` 会清空目标表所有数据，请谨慎使用
 - 使用 `--dry-run` 可以在执行前预览操作，避免误操作
 - 对于大表同步，建议配合 `--where` 分批同步，避免内存溢出
-
