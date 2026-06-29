@@ -1,22 +1,22 @@
-# EasyDBSync
+# Db2Db (中文)
 
 数据库表同步工具，支持将数据从一个数据库的表同步到另一个数据库的表。基于 SQLAlchemy 构建，支持 MySQL、PostgreSQL、SQLite 之间的跨库同步。
 
 ## 安装
 
 ```bash
-# 创建虚拟环境
+# Db2Db (中文)
 python -m venv venv
 
-# 激活虚拟环境
-# Windows PowerShell
+# Db2Db (中文)
+# Db2Db (中文)
 venv\Scripts\Activate.ps1
-# Windows CMD
+# Db2Db (中文)
 venv\Scripts\activate.bat
-# Linux / macOS
+# Db2Db (中文)
 source venv/bin/activate
 
-# 安装依赖
+# Db2Db (中文)
 pip install -r requirements.txt
 ```
 
@@ -159,10 +159,10 @@ python sync_data.py \
 使用 `--dry-run` 查看将要执行的操作，确认无误后再正式运行：
 
 ```bash
-# 预览
+# Db2Db (中文)
 python sync_data.py ... --dry-run
 
-# 确认后执行
+# Db2Db (中文)
 python sync_data.py ...
 ```
 
@@ -306,13 +306,13 @@ dialect+driver://username:password@host:port/database
 常用示例：
 
 ```
-# MySQL / MariaDB
+# Db2Db (中文)
 mysql+pymysql://user:pass@localhost:3306/mydb
 
-# PostgreSQL
+# Db2Db (中文)
 postgresql+psycopg2://user:pass@localhost:5432/mydb
 
-# SQLite
+# Db2Db (中文)
 sqlite:///path/to/db.sqlite
 ```
 

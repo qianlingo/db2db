@@ -2,7 +2,8 @@
 
 [English](README_EN.md) | [中文](README_CN.md)
 
-# Db2Db
+[![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE) [![Python](https://img.shields.io/badge/python-%3E%3D3.8-brightgreen.svg)](https://www.python.org/)
+
 
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE) [![Python](https://img.shields.io/badge/python-%3E%3D3.8-brightgreen.svg)](https://www.python.org/)
 
