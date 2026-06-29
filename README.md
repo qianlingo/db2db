@@ -4,9 +4,6 @@
 
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE) [![Python](https://img.shields.io/badge/python-%3E%3D3.8-brightgreen.svg)](https://www.python.org/)
 
-
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE) [![Python](https://img.shields.io/badge/python-%3E%3D3.8-brightgreen.svg)](https://www.python.org/)
-
 Lightweight table sync and migration tool built on SQLAlchemy. Db2Db helps reliably sync schema and data between different relational databases.
 
 ## Supported databases
